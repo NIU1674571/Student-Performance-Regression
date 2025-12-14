@@ -1,8 +1,8 @@
 # Student-Performance-Regression
 
 ## 👥 Autores
-- Bo shao (1671000)
-- Xiang Feng Wang (1674571)
+- Bo shao NIU:1671000
+- Xiang Feng Wang NIU:1674571
 
 ## 🧠 Objetivo: Predicción de la nota media de los estudiantes
 
